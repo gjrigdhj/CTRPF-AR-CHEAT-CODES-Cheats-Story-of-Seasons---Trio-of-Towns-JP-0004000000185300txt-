@@ -3,7 +3,7 @@
 # [Max Gold]
 00794A50 3B9AC9FF
 
-# [Exchange the items in the bag] SELE]
+[Exchange the items in the bag] SELE]
 907B310E 0000000a
 107B310E 00000000
 D9000000 007B3114
